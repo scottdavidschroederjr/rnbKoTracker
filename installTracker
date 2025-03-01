@@ -5,3 +5,4 @@ Installed to for OpenCV
   2. Numpy (pip install numpy)
   3. Matplotlib (pip install matplotlib)
   4. OpenCV (https://github.com/opencv/opencv/releases)
+  5. Caer (pip install caer)
